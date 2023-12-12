@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as c,c as n,a as s,b as r}from"./app-O2pfA_0v.js";const a={},_=r("p",null,"🎉 ！",-1);function l(i,d){const e=o("ArticleList");return c(),n("div",null,[_,s(e,{target:"/*"})])}const f=t(a,[["render",l],["__file","index.html.vue"]]);export{f as default};
