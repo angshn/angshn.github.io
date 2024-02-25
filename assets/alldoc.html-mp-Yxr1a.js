@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-68a82ea9","path":"/alldoc.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1705067660000,"contributors":[{"name":"syang","email":"syang.pstar@outlook.com","commits":1}]},"filePathRelative":"alldoc.md"}');export{a as data};

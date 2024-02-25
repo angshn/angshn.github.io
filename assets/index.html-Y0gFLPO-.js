@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-39fce2e0","path":"/computer/operator_system/","title":"操作系统主页","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1708868759000,"contributors":[{"name":"syang","email":"syang.pstar@outlook.com","commits":1}]},"filePathRelative":"computer/operator_system/README.md"}');export{t as data};

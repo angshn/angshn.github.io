@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6cec0ebc","path":"/java/jvm/","title":"","lang":"en-US","frontmatter":{"sidebar":false},"headers":[{"level":2,"title":"JVM","slug":"jvm","link":"#jvm","children":[]}],"git":{"updatedTime":1704893801000,"contributors":[{"name":"angshn","email":"syang.pstar@outlook.com","commits":1}]},"filePathRelative":"java/jvm/README.md"}');export{e as data};

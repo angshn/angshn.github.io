@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-47b83f64","path":"/datastruct/basic/skiplist.html","title":"SkipList跳表","lang":"en-US","frontmatter":{"title":"SkipList跳表"},"headers":[],"git":{"updatedTime":1705067660000,"contributors":[{"name":"syang","email":"syang.pstar@outlook.com","commits":1}]},"filePathRelative":"datastruct/basic/skiplist.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4d6f994e","path":"/practice/spring-custom/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1704893801000,"contributors":[{"name":"angshn","email":"syang.pstar@outlook.com","commits":1}]},"filePathRelative":"practice/spring-custom/README.md"}');export{t as data};
