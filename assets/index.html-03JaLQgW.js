@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-02b99f9a","path":"/placeonfile/computer/operator_system/","title":"操作系统主页","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1742398350000,"contributors":[{"name":"angshn","email":"syang.pstar@outlook.com","commits":1}]},"filePathRelative":"placeonfile/computer/operator_system/README.md"}');export{e as data};

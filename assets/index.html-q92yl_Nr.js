@@ -1,0 +1,1 @@
+import{_ as t,r as c,o as n,c as o,b as r}from"./app-Ec_z8kpw.js";const s={};function l(_,a){const e=c("ArticleList");return n(),o("div",null,[r(e,{target:"/sql/mysql"})])}const m=t(s,[["render",l],["__file","index.html.vue"]]);export{m as default};

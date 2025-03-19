@@ -1,0 +1,1 @@
+import{_ as n,o as t,c as a,a as e}from"./app-Ec_z8kpw.js";const c={},o=e("h2",{id:"函数式接口是什么",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#函数式接口是什么"},[e("span",null,"函数式接口是什么")])],-1),s=[o];function _(r,l){return t(),a("div",null,s)}const d=n(c,[["render",_],["__file","Functional.html.vue"]]);export{d as default};

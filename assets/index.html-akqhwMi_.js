@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a1ddaaa2","path":"/placeonfile/computer/network/","title":"计算机网络主页","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1742398350000,"contributors":[{"name":"angshn","email":"syang.pstar@outlook.com","commits":1}]},"filePathRelative":"placeonfile/computer/network/README.md"}');export{e as data};

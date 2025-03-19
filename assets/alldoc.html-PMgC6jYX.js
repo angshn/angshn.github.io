@@ -1,0 +1,1 @@
+import{_ as t,r as c,o,c as r,b as l}from"./app-Ec_z8kpw.js";const n={};function s(a,_){const e=c("ArticleList");return o(),r("div",null,[l(e,{target:"/*"})])}const m=t(n,[["render",s],["__file","alldoc.html.vue"]]);export{m as default};

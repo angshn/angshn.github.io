@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-92323f6a","path":"/placeonfile/datastruct/basic/","title":"通用算法","lang":"en-US","frontmatter":{"sidebar":"auto","title":"通用算法"},"headers":[],"git":{"updatedTime":1742398350000,"contributors":[{"name":"angshn","email":"syang.pstar@outlook.com","commits":1}]},"filePathRelative":"placeonfile/datastruct/basic/README.md"}');export{t as data};

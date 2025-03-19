@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as c,c as n,b as r}from"./app-Ec_z8kpw.js";const s={};function _(l,a){const e=o("ArticleList");return c(),n("div",null,[r(e,{target:"/blog/.*"})])}const m=t(s,[["render",_],["__file","index.html.vue"]]);export{m as default};

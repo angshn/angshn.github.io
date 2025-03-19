@@ -1,0 +1,1 @@
+import{_ as n,o as t,c as a,a as e}from"./app-Ec_z8kpw.js";const c={},s=e("h1",{id:"计算机网络主页",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#计算机网络主页"},[e("span",null,"计算机网络主页")])],-1),o=[s];function _(r,d){return t(),a("div",null,o)}const i=n(c,[["render",_],["__file","index.html.vue"]]);export{i as default};

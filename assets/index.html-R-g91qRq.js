@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-336e77db","path":"/placeonfile/database/mysql/","title":"MySQL文章","lang":"en-US","frontmatter":{"title":"MySQL文章","sidebar":false},"headers":[],"git":{"updatedTime":1742398350000,"contributors":[{"name":"angshn","email":"syang.pstar@outlook.com","commits":1}]},"filePathRelative":"placeonfile/database/mysql/README.md"}');export{a as data};
